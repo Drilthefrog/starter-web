@@ -18,6 +18,7 @@ Adding more instructions.
 ## How To Contribute
 
 Added details on contributions to the project.
+Extra fork info
 
 ## Copyright
 stuff
