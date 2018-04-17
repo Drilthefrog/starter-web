@@ -22,4 +22,4 @@ Added details on contributions to the project.
 Extra fork info
 
 ## Copyright
-stuff
+stuff, all rights reserved
